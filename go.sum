@@ -234,8 +234,8 @@ github.com/hashicorp/memberlist v0.4.0 h1:k3uda5gZcltmafuFF+UFqNEl5PrH+yPZ4zkjp1
 github.com/hashicorp/memberlist v0.4.0/go.mod h1:yvyXLpo0QaGE59Y7hDTsTzDD25JYBZ4mHgHUZ8lrOI0=
 github.com/honeycombio/dynsampler-go v0.2.1 h1:IbhjbdB0IbLSZn7xVYuk6jjk/ZDk/EO+DJ5OXFZliv8=
 github.com/honeycombio/dynsampler-go v0.2.1/go.mod h1:BOeTUPT6fCRH5X/+QqF6Kza3IyLp9uSq/rWgEtI4aZI=
-github.com/honeycombio/husky v0.10.6 h1:jU/lXqo7Qz6e9eUJErIH3Lst2gjKWSJ4oAXYjFSXkn0=
-github.com/honeycombio/husky v0.10.6/go.mod h1:i69+3xApIcsQn9PPeFRndTOOw6edNG66TxTTd+L6oq0=
+github.com/honeycombio/husky v0.15.0 h1:RuYmKC1jHSB6y3C7pSXf889w8AaSzZ1JkIkLaiXlC5o=
+github.com/honeycombio/husky v0.15.0/go.mod h1:ZO2AzJnnJkUoXbIQ5qLCvQuWdQOG/BZEup8pf2y5ua0=
 github.com/honeycombio/libhoney-go v1.15.8 h1:TECEltZ48K6J4NG1JVYqmi0vCJNnHYooFor83fgKesA=
 github.com/honeycombio/libhoney-go v1.15.8/go.mod h1:+tnL2etFnJmVx30yqmoUkVyQjp7uRJw0a2QGu48lSyY=
 github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
@@ -255,8 +255,8 @@ github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7V
 github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/klauspost/compress v1.13.6/go.mod h1:/3/Vjq9QcHkK5uEr5lBEmyoZ1iFhe47etQ6QUkpK6sk=
-github.com/klauspost/compress v1.15.6 h1:6D9PcO8QWu0JyaQ2zUMmu16T1T+zjjEpP91guRsvDfY=
-github.com/klauspost/compress v1.15.6/go.mod h1:PhcZ0MbTNciWF3rruxRgKxI5NkcHHrHUDtV4Yw2GlzU=
+github.com/klauspost/compress v1.15.9 h1:wKRjX6JRtDdrE9qwa4b/Cip7ACOshUI4smpCQanqjSY=
+github.com/klauspost/compress v1.15.9/go.mod h1:PhcZ0MbTNciWF3rruxRgKxI5NkcHHrHUDtV4Yw2GlzU=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/konsorten/go-windows-terminal-sequences v1.0.3/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/kr/fs v0.1.0/go.mod h1:FFnZGqtBN9Gxj7eW1uZ42v5BccTP0vu6NEaFoC2HwRg=
